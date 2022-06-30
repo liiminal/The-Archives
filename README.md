@@ -5,6 +5,17 @@ Imagine attempting to host a site with .md files in Github with no prior knowled
 [The Lost Mine of Phandelver]()
 
 
+## Resources
+[Dice Cove | Where DMs stay up late.](https://dicecove.com/)
+ - Terms explained + glossary for terms
+[5etools.](https://5e.tools/)
+ - A suite of tools for 5th Edition Dungeons & Dragons players and Dungeon Masters
+
+
+# Campaigns
+[[01 The Lost Mine of Cleandelver]]
+
+
 
 
 
