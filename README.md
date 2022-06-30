@@ -2,7 +2,7 @@
 
 Imagine attempting to host a site with .md files in Github with no prior knowledge to web programming, could **definitely** not be me
 
-[The Lost Mine of Phandelver]()
+Very obviously a massive work in progress
 
 
 ## Resources
@@ -13,7 +13,7 @@ Imagine attempting to host a site with .md files in Github with no prior knowled
 
 
 # Campaigns
-[[01 The Lost Mine of Cleandelver]]
+[01 The Lost Mine of Cleandelver](https://github.com/liiminal/The-Archives/blob/docs/202206160624%20D%26D.md)
 
 
 
