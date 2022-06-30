@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## The Archives
+
+Imagine attempting to host a site with .md files in Github with no prior knowledge to web programming, could **definitely** not be me
+
 
 You can use the [editor on GitHub](https://github.com/liiminal/The-Archives/edit/docs/README.md) to maintain and preview the content for your website in Markdown files.
 
